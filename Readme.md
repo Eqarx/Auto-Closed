@@ -1,3 +1,4 @@
+# Close target application at target time
 使用教程
 
 1. 创建配置文件：在与.exe文件相同的目录下创建一个名为 config.txt 的文本文件，并按照以下格式添加要关闭的程序和时间点：
