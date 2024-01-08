@@ -48,7 +48,7 @@ int main() {
         // 强制关闭目标程序
         forceCloseProgram(targetPrograms[i]);
 
-        std::cout << "目标程序关闭。剩余：" << targetTimes.size() - (i + 1) << "项" << std::endl;
+        std::cout << "剩余：" << targetTimes.size() - (i + 1) << "项" << std::endl;
     }
 
     return 0;
